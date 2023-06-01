@@ -1,4 +1,4 @@
-module github.com/tillitis/tillitis-key1-apps
+module github.com/tillitis/tkeyutil
 
 go 1.19
 
