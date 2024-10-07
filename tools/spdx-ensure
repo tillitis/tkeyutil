@@ -20,6 +20,7 @@ missingok_files=(
 .golangci.yml
 LICENSE
 Makefile
+RELEASE.md
 README.md
 go.mod
 go.sum
