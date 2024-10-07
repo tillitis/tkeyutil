@@ -3,10 +3,10 @@ module github.com/tillitis/tkeyutil
 go 1.19
 
 require (
-	github.com/gen2brain/beeep v0.0.0-20230307103607-6e717729cb4f
+	github.com/gen2brain/beeep v0.0.0-20240516210008-9c006672e7f4
 	github.com/go-toast/toast v0.0.0-20190211030409-01e6764cf0a4
-	golang.org/x/sys v0.7.0
-	golang.org/x/term v0.7.0
+	golang.org/x/sys v0.26.0
+	golang.org/x/term v0.25.0
 )
 
 require (
