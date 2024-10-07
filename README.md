@@ -1,7 +1,7 @@
 
 [![ci](https://github.com/tillitis/tkeyutil/actions/workflows/ci.yaml/badge.svg?branch=main&event=push)](https://github.com/tillitis/tkeyutil/actions/workflows/ci.yaml) [![Go Reference](https://pkg.go.dev/badge/github.com/tillitis/tkeyutil.svg)](https://pkg.go.dev/github.com/tillitis/tkeyutil)
 
-# Tillitis TKey Utilitiy package
+# Tillitis TKey Utility package
 
 A Go package with utility functions for a client application
 communicating with  a [Tillitis](https://tillitis.se/) TKey.
@@ -9,8 +9,8 @@ communicating with  a [Tillitis](https://tillitis.se/) TKey.
 See the [Go doc](https://pkg.go.dev/github.com/tillitis/tkeyutil)
 for `tkeyutil` for details on how to call the functions.
 
-See [apps repo](https://github.com/tillitis/tillitis-key1-apps/) for
-example client and device applications.
+See [tkey-ssh-agent](https://github.com/tillitis/tkey-ssh-agent/) for
+an example client application.
 
 Release notes in [RELEASE.md](RELEASE.md).
 
