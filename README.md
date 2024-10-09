@@ -1,4 +1,3 @@
-
 [![ci](https://github.com/tillitis/tkeyutil/actions/workflows/ci.yaml/badge.svg?branch=main&event=push)](https://github.com/tillitis/tkeyutil/actions/workflows/ci.yaml) [![Go Reference](https://pkg.go.dev/badge/github.com/tillitis/tkeyutil.svg)](https://pkg.go.dev/github.com/tillitis/tkeyutil)
 
 # Tillitis TKey Utility package
@@ -37,3 +36,6 @@ The current set of valid, predefined SPDX identifiers can be found on
 the SPDX License List at:
 
 https://spdx.org/licenses/
+
+We attempt to follow the [REUSE
+specification](https://reuse.software/).
