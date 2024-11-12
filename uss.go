@@ -19,7 +19,7 @@ func InputUSS() ([]byte, error) {
 		return nil, fmt.Errorf("ReadPassword: %w", err)
 	}
 	fmt.Printf("\nRepeat the phrase: ")
-	ussAgain, err := term.ReadPassword(0)
+	ussAgain, err := term.ReadPassword(int(os.Stdin.Fd()))
 	if err != nil {
 		return nil, fmt.Errorf("ReadPassword: %w", err)
 	}
